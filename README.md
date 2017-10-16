@@ -1,4 +1,4 @@
-# bluejay
+# Bluejay
 
 ### the classroom task/reward assistive app
 
